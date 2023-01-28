@@ -1,0 +1,13 @@
+.MenuBar {
+    height: 4.1rem;
+}
+.nav_color {
+    background-color: #0c4b4d;
+}
+.nav_color img {
+    width: 200px;
+    height: 65px;
+}
+.nav_color div p {
+    margin-bottom: 0;
+}
